@@ -1,9 +1,9 @@
 #!/bin/bash
-
+	
 # ShellPhish v2.5-Mod
-# Moded by @AbirHasan2005
+# Moded by @Kiyomii001
 
-# Join Telegram Group for help: http://t.me/linux_repo
+# Whatsapp is : +261 33 18 339 63
 
 
 trap 'printf "\n";stop;exit 1' 2
