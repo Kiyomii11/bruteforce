@@ -15,9 +15,8 @@ Merci de patienter.....,!★
 
 Commande creer par un malagasy 
 
-Contact : +261 33 18 339 63
-Facebook : Kiyo mii ( emoji name ) , chef de guilde 
-number free fire
+Whatsapp : +261 33 18 339 63
+Facebook : https://www.facebook.com/Chef.number.one.001
 
 
 
